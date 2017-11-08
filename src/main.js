@@ -10,9 +10,9 @@ let exec = require('child_process').exec;
 
 var myStaff = ['uf7c3c593220a325c1c1fa27efeb13a9d','uf25c0403a3d183da6596ab2d3625ab06'];
 
-const myAdmin = ['uf4b07728e212314b1e7952849b5b15c5'];
+const myAdmin = [' u519f30829a45273b9cf703c56d93c90b'];
 
-const myBot = ['u475745ae5c2e4496dce056b8c5c8aec'];
+const myBot = ['uf4b07728e212314b1e7952849b5b15c5'];
 const banList = [];//Banned list
 var vx = {};var midnornama,pesane,kickhim;var waitMsg = "no";//DO NOT CHANGE THIS
 var komenTL = "AutoLike by Bee\nline://ti/p/~kobe2k17"; //Comment for timeline
